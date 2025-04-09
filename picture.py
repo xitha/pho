@@ -1,4 +1,4 @@
-import cv2
+import cv2 #이건 주석이다다
 
 cap=cv2.VideoCapture(0)
 
